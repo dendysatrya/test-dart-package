@@ -1,3 +1,7 @@
+## 0.0.8
+
+- Update readme.md
+
 ## 0.0.7
 
 - Update description
