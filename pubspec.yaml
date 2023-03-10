@@ -1,8 +1,11 @@
 name: test_dart_package
 description: A starting point for Dart libraries or applications.
-version: 0.0.1
+version: 0.0.4
 homepage: https://github.com/dendysatrya/test-dart-package/
 repository: https://github.com/dendysatrya/test-dart-package/
+
+false_secrets:
+  - /credentials.json
 
 environment:
   sdk: ">=2.19.2 <3.0.0"
