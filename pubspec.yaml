@@ -1,6 +1,6 @@
 name: test_dart_package
-description: A starting point for Dart libraries or applications.
-version: 0.0.6
+description: Testing dart package w/ github action here.
+version: 0.0.7
 homepage: https://github.com/dendysatrya/test-dart-package/
 repository: https://github.com/dendysatrya/test-dart-package/
 
