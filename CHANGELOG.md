@@ -1,3 +1,7 @@
+## 0.0.6
+
+- SDK version fix
+
 ## 0.0.5
 
 - Fix pub.dev requirements
