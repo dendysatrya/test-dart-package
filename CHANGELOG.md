@@ -1,3 +1,11 @@
+## 0.0.5
+
+- Fix pub.dev requirements
+
+## 0.0.4
+
+- Pub.dev requirements
+
 ## 0.0.3
 
 - Pub.dev requirements
